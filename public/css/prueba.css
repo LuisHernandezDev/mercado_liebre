@@ -1,0 +1,46 @@
+/* .fa-bars {
+    padding: 4%;
+    margin: 7%;
+    border-radius: 12%;
+    color: white;
+    background-color: blue;
+    font-size: 2em;
+    margin-left: 45%;
+} */
+
+
+/* .burger-menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 5%;
+    padding: 4%;
+    color: white;
+    background-color: blue;
+    border-radius: 12%;
+} */
+
+
+/* .fa-credit-card,
+.fa-gift,
+.fa-user-shield {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: blue;
+    margin-left: 45%;
+    margin-top: 50px;
+} */
+
+
+section article {
+    margin-bottom: 10px;
+    background-color: white;
+    width: 100%;
+}
+
+
+
+.articulo {
+    border-top: 1px solid #ebebeb;
+    padding: 15px;
+}
